@@ -28,3 +28,7 @@ sudo chmod +x /usr/local/bin/terraform
 ```
 
 Please close this issue after you accomplish those steps.
+
+### Install docker for desktop
+
+We need a local provider to use our files without incurring expenses, please follow the steps for your operating system to install docker on your local machine. Those steps are available on the [Official Docker Documentation](https://docs.docker.com/get-docker/).
