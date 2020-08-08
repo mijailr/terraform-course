@@ -1,15 +1,16 @@
 title: terraform
-description: WIP
+description: Terraform on-hands lab
 template:
   repo: terraform-template
-  name: terraform
+  name: terraform-on-hands
+  description: Terraform practice laboratory
 before:
   - type: createIssue
-    title: Welcome!
+    title: Welcome! we're ready to start!
     body: new-issue.md
 steps:
-  - title: First step
-    description: The first step in your course
+  - title: Prepare your environment
+    description: Get started setting up your work environment.
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
