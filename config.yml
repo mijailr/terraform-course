@@ -16,6 +16,7 @@ steps:
     actions:
       - type: closeIssue
   - title: Your first terraform file
+    description: Configure your provider
     actions:
       - type: createIssue
         title: Let's create your first configuration file
