@@ -19,7 +19,5 @@ steps:
     description: Configure your provider
     actions:
       - type: createIssue
-        title: Let's create your first configuration file
-        body: basic.md
     link: '{{ repoUrl }}'
     event: issues.closed
